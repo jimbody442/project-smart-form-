@@ -1,0 +1,5 @@
+{"read_status":1}
+{"pumpStatus":"ON", "ledStatus":"ON", "heaterStatus":"ON"}
+{"pumpStatus":"OFF", "ledStatus":"OFF", "heaterStatus":"OFF"}
+
+"read_status": 1}{"pumpStatus": "ON", "ledStatus": "ON", "heaterStatus": "ON"}{"read_status": 1
